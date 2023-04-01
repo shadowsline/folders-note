@@ -1,0 +1,12 @@
+.form-contro {
+    border-radius: 5px;
+    width: 100%;
+    color: rgb(13, 77, 77);
+    font-weight: 700;
+}
+.search-panel {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: rgb(54, 35, 54);
+    border-radius: 5px;
+}
